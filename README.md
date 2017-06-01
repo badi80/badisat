@@ -1,2 +1,0 @@
-# badisat
-settings
