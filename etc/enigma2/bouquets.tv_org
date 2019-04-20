@@ -1,3 +1,2 @@
-#NAME 
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.skylink__tv_.tv" ORDER BY bouquet
+#NAME Bouquets (TV)
 #SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.favourites.tv" ORDER BY bouquet
